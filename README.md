@@ -14,9 +14,9 @@ Additionally, understanding which properties are in high-demand could help renta
 All in all, predicting a city's airbnb vacancy market is a powerful tool with many potential benefits.
 
 ## Table of Contents
-Installation
-Usage
-Installation
+- Installation
+- Usage
+- Installation
 
 ## Usage
 This project is used to estimate vacancy rates based on the Inside Airbnb dataset. There are three research questions:
@@ -26,6 +26,7 @@ This project is used to estimate vacancy rates based on the Inside Airbnb datase
 Each research question, EDA, and prediction model is featured in their respective Jupyter Notebook.
 
 The main methodology is implemented in "rq1.ipynb", "rq2.ipynb", and "rq3.ipynb".
+Additionally, preliminary EDA is achieved in "EDA" folder for both the listing.csv dataset and the calendar.csv dataset.
 
 ## Dataset
 The dataset being used is the "Inside Airbnb" dataset, which provides the general public with a summary of Airbnb statistics for different cities.
