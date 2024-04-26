@@ -39,5 +39,5 @@ Here are a list of requirements:
 - sci-kit learn
 - os
 - matplotlib
-- Python 3.11
+- Python 3.11 (RQ2 is run on Python 3.10.12)
 - Keras
